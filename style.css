@@ -1,0 +1,90 @@
+
+
+
+body{ 
+    background:url(./wavy-background-with-copy-space_52683-65230.jpg) no-repeat fixed center/cover;
+    margin: 35px auto;
+    padding: 35px;
+}
+
+.container{
+   background: radial-gradient(#dd1728,#100f0f);
+    margin: 20px;
+    padding: 30px;
+    border-radius: 35px;
+}
+
+header{
+}
+
+.partie1{
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.icone{
+    font-size: 45px;
+    line-height: 30px;
+    position: relative;
+    top: -70px;
+    left: -200px;
+}
+nav{
+    
+}
+ul li{
+    display: inline-block;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+  button{
+     background: none;
+     border-radius: 20px;
+     padding: 10px;
+     position: relative;
+     top: -20px;
+     right: -200px;
+     width: 100px;
+     color: white;
+     border: 1px solid white;
+  }
+
+  main{
+
+  }
+
+  .week{
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .next{
+      position: relative;
+      float: left;
+      transform: rotate(180deg);
+  }
+
+  .precedent{
+      float: right;
+  }
+
+  .arafat{
+   display: flex;
+   justify-content: center;
+  }
+
+  .connect{
+      width: 200px;
+  }
+
+  .djarafat{
+      position: absolute;
+      bottom: 0;
+      right: 90px;
+      top: 835px;
+  }
